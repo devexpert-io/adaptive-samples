@@ -15,4 +15,11 @@
     <string name="item_title">Item %1$d</string>
     <string name="medium_layout_description">Medium width content allows for a two-column layout</string>
     <string name="expanded_layout_description">Expanded width content allows for a three-column layout with additional details</string>
+
+    <!-- Navigation Example -->
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="shopping">Shopping</string>
+    <string name="profile">Profile</string>
+    <string name="navigation_demo_title">Navigation Demo</string>
 </resources>
