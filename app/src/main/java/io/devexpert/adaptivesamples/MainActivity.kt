@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import io.devexpert.adaptivesamples.examples.navigation.NavigationExample
+import io.devexpert.adaptivesamples.examples.feed.FeedExample
 import io.devexpert.adaptivesamples.ui.theme.AdaptiveSamplesTheme
 
 class MainActivity : ComponentActivity() {
@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             AdaptiveSamplesTheme {
-                NavigationExample()
+                FeedExample()
             }
         }
     }
