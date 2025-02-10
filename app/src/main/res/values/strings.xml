@@ -1,3 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Adaptive Samples</string>
+    <string name="app_name">AdaptiveSamples</string>
+    
+    <!-- Window Size Classes Example -->
+    <string name="window_size_demo_title">Window Size Classes Demo</string>
+    <string name="current_window_size_title">Current Window Size Classes</string>
+    <string name="window_width">Width: %1$s</string>
+    <string name="window_height">Height: %1$s</string>
+    
+    <string name="compact_layout_title">Compact Layout</string>
+    <string name="medium_layout_title">Medium Layout</string>
+    <string name="expanded_layout_title">Expanded Layout</string>
+    
+    <string name="item_title">Item %1$d</string>
+    <string name="medium_layout_description">Medium width content allows for a two-column layout</string>
+    <string name="expanded_layout_description">Expanded width content allows for a three-column layout with additional details</string>
 </resources>
